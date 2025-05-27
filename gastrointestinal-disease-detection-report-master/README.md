@@ -4,7 +4,8 @@ This repository contains a detailed report on the Gastrointestinal Disease Detec
 
 ## Live Demo
 
-The live demo of the project is available at: [[https://gastrointestinal-disease-detection-1qm3yt]([https://gastrointestinal-disease-detection-1qm3yt)
+The live demo of the project is available at: [https://gastrointestinal-disease-detection-1qm3yt]
+(https://gastrointestinal-disease-detection-1qm3yt)
 
 ## Report Contents
 
